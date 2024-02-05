@@ -7,7 +7,7 @@
 
 - 📫 You can reach me on <a target="_blank" href="https://www.linkedin.com/in/santanu-ghosh-55b459274/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
 
-- 💞️ I love gaming, listening music, Coading.
+- 💞️ I love gaming, listening music, Codeing.
 
 
 
@@ -18,7 +18,7 @@
 
 
 
-<h2 align="center" border="0">My Tech Stack</h2>
+<h2 align="center" border="0">My Skill</h2>
 <br>
 <table align="center">
 
@@ -140,7 +140,7 @@
 
 </p>
 <hr />
-<h3>  My Github Stats <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/></h3>
+
 
 
 
