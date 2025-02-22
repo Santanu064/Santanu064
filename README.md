@@ -52,9 +52,9 @@
 
 <td width="25%" align="center">
 
-<span>𝗥𝗲𝗮𝗰𝘁</span><br><br>
+<span>Django</span><br><br>
 
-<img height="64px" src="https://static.djangoproject.com/img/logos/django-logo-negative.png">
+<img height="64px" src="https://cdn.svgporn.com/logos/django-icon.svg">
 
 </td>
 
