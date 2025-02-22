@@ -72,9 +72,9 @@
 
 <td width="25%" align="center">
 
-<span>Express</span><br><br>
+<span>My SQL</span><br><br>
 
-<img height="64px" color="white" src="https://cdn.svgporn.com/logos/express.svg">
+<img height="64px" color="white" src="https://cdn.svgporn.com/logos/mysql.svg">
 
 </td>
 <td width="25%" align="center">
@@ -98,9 +98,9 @@
 
 <td width="25%" align="center">
 
-<span>Material UI</span><br><br>
+<span>Python</span><br><br>
 
-<img height="64px" src="https://mui.com/static/logo.png">
+<img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
 
 </td>
 
