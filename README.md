@@ -54,7 +54,7 @@
 
 <span>𝗥𝗲𝗮𝗰𝘁</span><br><br>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+<img height="64px" src="[https://cdn.svgporn.com/logos/react.svg](https://static.djangoproject.com/img/logos/django-logo-negative.png)">
 
 </td>
 
